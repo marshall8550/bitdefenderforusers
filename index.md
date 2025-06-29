@@ -19,7 +19,7 @@ Before you begin the **Bitdefender Central download for Windows 11** or Windows 
 
 - Ensure your Windows operating system is updated.
 - Uninstall any previous antivirus software to avoid conflicts.
-- Keep your internet connection stable during the process.
+- [Keep your internet connection stable during the process.](https://bitdefenderforusers.readthedocs.io/)
 
 
 
@@ -41,7 +41,7 @@ After logging in:
 
 1. From your dashboard, click on **“My Devices.”**
 2. Select **“+ Install Bitdefender on this device.”**
-3. Choose your operating system – Windows 10 or Windows 11.
+[3. Choose your operating system – Windows 10 or Windows 11.](https://bitdefenderforusers.readthedocs.io/)
 4. Click on **Download** to get the **install Bitdefender download latest version**.
 
 This is the official **install Bitdefender download Windows 10** or **Windows 11** file tailored for your device.
